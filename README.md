@@ -6,9 +6,18 @@ Description: This project is our Microsoft Imagine Cup Junior project which is a
 <img width="1236" alt="Screenshot 2023-05-14 at 11 26 19 PM" src="https://github.com/didumfernando/Save-The-World-2/assets/118650079/6d34ad87-c8dd-4ff8-9e78-f1d9ebfee4f4">
 (Figure 1)
 
+## AI Concepts 
+The AI would use the following algorithm shown in Figure 2 pictorially to accurately diagnose the risk levels and suggest the recommend actions for each of the groups (red - high risk, yellow - medium risk, green- low risk)
+
+<img width="325" alt="Screenshot 2023-05-15 at 10 54 25 AM" src="https://github.com/didumfernando/Save-The-World-2/assets/118650079/6cf4ab12-1abc-4db2-8af9-95050f315432">
+(Figure 2)
+
 Languages used for this Project: Python, HTML, CSS, SQL and Javascript
+
 Replit link: https://stw2--bngybongybrd.repl.co/
+
 Video Link:
+
 MsImagine Junior Slides Link: https://docs.google.com/presentation/d/1I_28aptqZXX3VMq69QDF9vnfxHudf_SKuoremIdZCJQ/edit?usp=sharing
 
 
