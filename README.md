@@ -17,7 +17,7 @@ Languages used for this Project: Python, HTML, CSS, SQL and Javascript
 
 Replit link/ Website Link: https://stw2--bngybongybrd.repl.co/
 
-Video Link:
+Video Link: https://youtu.be/OBQ-iXGrFHM
 
 MsImagine Junior Slides Link: https://docs.google.com/presentation/d/1I_28aptqZXX3VMq69QDF9vnfxHudf_SKuoremIdZCJQ/edit?usp=sharing
 
